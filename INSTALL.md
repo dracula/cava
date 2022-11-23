@@ -1,4 +1,4 @@
-### [Foobar](https://foobar.com)
+### [Cava](https://github.com/karlstav/cava)
 
 #### Install using Git
 
